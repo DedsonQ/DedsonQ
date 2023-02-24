@@ -1,4 +1,4 @@
-<h1 color="MediumPurple">Dedson._. 👻</h1>
+<h1 color="MediumPurple">Dedson 👻</h1>
 
 **`Junior Developer`**
 
