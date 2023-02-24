@@ -1,4 +1,4 @@
-<h1 color="purple">Dedson._. 👻</h1>
+<h1 color="MediumPurple">Dedson._. 👻</h1>
 
 **`Junior Developer`**
 
@@ -26,8 +26,9 @@ My ultimate goal is to become a respected and successful developer, known for my
 <hr />
 <h2 color ="seagreen">My Git Stats</h2>
 
-#
 
 ![Dedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedsonQ&show_icons=true&theme=aura)
 
-#
+<hr />
+<h3 color="MediumPurple">My contact information: </h3>
+<p color= "seagreen">dedson.biz@gmail.com</p>
