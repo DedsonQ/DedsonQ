@@ -1,7 +1,10 @@
 <h1 color="purple">Dedson._. 👻</h1>
 
 **`Junior Developer`**
-
+<br />
+<img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-poland_1f1f5-1f1f1.png">
+<img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png">
+<br />
 <p>As a young developer starting out in the industry, I am eager to learn and tackle big projects. At the age of 18, I am determined to become a skilled developer and make a positive impact in the world of technology.
 
 I understand that the path to becoming a proficient developer is not an easy one, but I am willing to put in the hard work and dedication required to achieve my goals. I am constantly seeking new challenges and opportunities to grow my skills and knowledge.
@@ -22,5 +25,5 @@ My ultimate goal is to become a respected and successful developer, known for my
 <h2 color ="seagreen">My Git Stats</h2>
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedsonQ&show_icons=true&theme=aura)
+![Dedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedsonQ&show_icons=true&theme=aura)
 #
