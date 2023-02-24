@@ -24,7 +24,7 @@ My ultimate goal is to become a respected and successful developer, known for my
 <img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <br />
 <hr />
-<h2 color ="seagreen">My Git Stats: </h2>
+<h2 color ="seagreen">My GitHub Stats: </h2>
 
 
 ![Dedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedsonQ&show_icons=true&theme=aura)
