@@ -26,7 +26,6 @@ My ultimate goal is to become a respected and successful developer, known for my
 <hr />
 <h2 color ="seagreen">My GitHub Stats: </h2>
 
-
 ![Dedson's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedsonQ&show_icons=true&theme=aura)
 
 <hr />
