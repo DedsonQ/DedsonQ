@@ -30,4 +30,5 @@ My ultimate goal is to become a respected and successful developer, known for my
 
 <hr />
 <h3 color="MediumPurple">My contact information: </h3>
-<p color= "seagreen">dedson.biz@gmail.com</p>
+<p color= "seagreen">Mail: dedson.biz@gmail.com</p>
+<p color= "#012647">Discord: .dedson</p>
