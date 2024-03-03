@@ -22,6 +22,7 @@ My ultimate goal is to become a respected and successful developer, known for my
 <img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+<img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 <br />
 <hr />
 <h2 color ="seagreen">My GitHub Stats: </h2>
