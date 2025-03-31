@@ -6,7 +6,7 @@
 <img align="left" width="30px" height="30px" style="padding-right:10px;" src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png">
 <br />
 
-<p>A young developer on a quest, curiosity and passion mixed with a strong will for technology describes me. At 19, I have set ambitious goals, and fully devoted myself in perfecting my skills every day, while also getting actively involved in projects that can impact the industry in a positive light.
+<p>A young developer on a quest, curiosity and passion mixed with a strong will for technology describes me. At 20, I have set ambitious goals, and fully devoted myself in perfecting my skills every day, while also getting actively involved in projects that can impact the industry in a positive light.
 
 I thrive on challenges and see every problem as an opportunity to learn. I understand that becoming a skilled developer requires persistence, hands-on experience, and continuous improvement—and I’m ready to put in the work. From perfecting my coding skills, working on exciting projects, or even learning from seasoned experts, I am more than willing to expand my knowledge and go beyond the cap.
 
